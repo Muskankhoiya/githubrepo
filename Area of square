@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+//Compiler version g++ 6.3.0
+
+int main()
+{
+   float radius;
+   float area;
+   cout<<"enter length of square";
+   cin>>radius;
+   area=radius*radius;
+   cout<<"area of square is::"<<area;
+   return 0;
+   
+}
