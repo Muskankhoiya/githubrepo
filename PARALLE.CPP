@@ -7,6 +7,6 @@ float base,height,area;
 cout<<"enter base and height of parallelogram:\n";
 cin>>base>>height;
 area=(base*height);
-cout<<"Area of parellelogram is:"<<area;
+cout<<" Area of parellelogram is:"<<area;
 getch();
 }
